@@ -12,11 +12,11 @@ body {
 }
 
 .navbar {
-	background-color: #616392;
+	background-color: #8B8EC4;
 }
 
 .jumbotron{
-    background-color: #B6B6B6;
+    background-color: #8B8EC4;
     height: 650px;
 }
 
@@ -73,7 +73,7 @@ ul > li {
 }
 
 .footer {
-	background-color: #B6B6B6;
+	background-color: #8B8EC4;
 }
 
 .col.yhteystiedot {
