@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<title>Ansioluettelo, Jenni Ylitalo</title>
+
+	 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Raleway" rel="stylesheet">	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 	
+	 	<link rel="stylesheet" href="css/style.css">
+	 	<link rel="stylesheet" href="css/animate.css">
+	 	 	
+  	</head>
+  
+ 	<body>
+   	<nav class="navbar navbar-expand-md fixed-top">
+  			<div class="container-fluid">
+    			<ul class="nav navbar-nav ml-auto d-flex flex-row">
+      		<li class="mina hidden"><a href="#minusta">Minusta</a></li>
+      		<li class="koulutus hidden"><a href="#koulutus">Koulutus</a></li>
+      		<li class="tyokokemus hidden"><a href="#tyokokemus">Työkokemus</a></li>
+      		<li class="muuta hidden"><a href="#muuta">Muuta</a></li>
+      		<li class="yhteystiedot hidden"><a href="#yhteystiedot">Yhteystiedot</a></li>
+    		</ul>
+  			</div>
+		</nav> 
+		
+		<div class="jumbotron">
+			<div class="row">
+				<div class="col">
+					<div class="otsikko hidden">
+						<h1 id="paaotsikko">Ansioluettelo: <br>Jenni Ylitalo</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+  		<div class="container">
+  			<div class="row">
+  				<div class="col minusta hidden" id="minusta">
+  					<p><h1>Kuka minä olen?</h1></p
+					<p><img src="images/IMG_0673.JPG" id="omakuva" style="float:left; margin: 10px 35px 15px 0px;">Olen avoin, oppimisen nälkäinen ja erittäin motivoitunut toisen vuoden tietojenkäsittelytieteiden opiskelija Oulusta, joka ei malta odottaa että pääsee
+					tekemään web-suunnittelu- ja koodaushommia käytännössä! Halu oppia uutta web-kehityksen saralla on erittäin suuri ja toivoisinkin, että päivässä olisi enemmän tunteja, jotta aikaa kaiken mielenkiintoisen opiskeluun riittäisi tarpeeksi. Ikää löytyy tällä hetkellä 26 vuotta ja takataskusta jo yksi liiketalouden tradenomitutkinto. Tällä hetkellä
+					menossa toinen tradenomitutkinto, mutta tällä kertaa tietojenkäsittelytieteiden puolelta. Viimeinen vuosi on ollut melkoista menoa ja meininkiä kokopäivätöiden ja opiskelujen
+					osalta, mutta kun motivaatiota opiskeluun löytyy, kaikki sujuu kuin itsestään! 
+					Tällä hetkellä töissä OP-ryhmässä kolmatta vuotta, ja kova tahto siirtyä asiakaspalvelupuolelta kehityspuolelle hyödyntämään kaikkea mitä kolmen vuoden aikana on nähnyt ja oppinut. </p>
+				</div>
+				
+			</div>	
+
+			<div class="row">
+			
+				<div class="col tyokokemus" id="tyokokemus">
+				<h1>Työkokemus</h1>
+				<p><h5><b>OP Oulu, Myyntineuvottelija, 11/2014</b></h5>
+				Työskentelen OP Oulun Asiakkuus- ja viestintäyksikössä myyntineuvottelijana. Työtehtäviini kuuluu ajanvarauksien tekeminen asiakkaillemme, tuotteiden myynti puhelimitse, asiakaspalvelu sekä eri tapahtumissa vierailu ja edustaminen.
+				</p>
+				<p><h5><b>OP Oulu, Palveluneuvoja, 1/2016-10/2016</b></h5>
+				Toimin palveluneuvojana useammassa eri konttorissa (Haukipudas, Ii, Kiiminki) päivittäis- ja kassapalveluissa. Työtehtäviini kuului aikavaraukset asiakkaiden kanssa (kasvotusten, puhelin, verkkoneuvottelu), tuotteiden myynti asiakkaille, asiakaspalvelu, kassapalveluiden hoito sekä pääkassana toimiminen.				
+				</p>
+				<p><h5><b>Varastotyöntekijä, Kespro Oy Oulu, 2/2014-8/2014</b></h5>
+				Työtehtäviini kuuluivat asiakaspalvelu puhelimitse, tilauksien ja reklamaatioiden vastaanottaminen sekä kassapalvelu.
+				</p>
+				<p><h5><b>Markkinoinnin ja myynnin harjoittelija, nal von minden, den Haag/Alankomaat, 7/2013-1/2014</b></h5>
+				Työtehtäviini kuuluivat markkinointimateriaalien valmistus, tarjouksien laatiminen asiakkaille, asiakaspalvelu puhelimitse, tilauksien hoitaminen, tuote- ja markkinointimateriaalien kääntäminen, julkisiin kilpailutuksiin osallistuminen ja markkinatutkimus.
+				</p>
+				<p><h5><b>Varastotyöntekijä, Kespro Oy Oulu, 11/2010-8/2012</b></h5></p>
+				</div>	
+				
+				<div class="col tyokokemus" id="koulutus">
+					<h1>Koulutus</h1>
+					<p><h5><b>Tietojenkäsittelyn tutkinto-ohjelma, <br>Oulun ammattikorkeakoulu 1/2017 -</b></h5>
+					- Web-sovelluskehitys<br>
+					- Ohjelmointi ja koodaus (HTML, CSS, Javascript, jQuery, Angular, SQL, PHP, Java, C#)<br>
+					- Internet-palvelut ja digitaalinen media					
+					</p>
+					<p><h5><b>Liiketalouden tutkinto-ohjelma, <br>Oulun ammattikorkeakoulu 8/2011-2/2015</b></h5>
+					- Markkinointi ja digitaalinen markkinointi<br>
+					- Opinnäytetyö: Digitaalisen markkinointiviestinnän suunnitelma urheilukaupalle, arvosana kiitettävä		
+					</p>
+					<p><h5><b>International Business Management, <br> Fontys Hogescholen 8/2012-7/2013</b></h5>
+					ERASMUS-vaihto, Alankomaat
+					</p>
+					<p><h5><b>Ylioppilas, <br>Oulun Suomalaisen Yhteiskoulun lukio 8/2007-12/2010</b></h5></p>
+				</div>
+					
+			</div>
+			
+			<div class="row">
+				<div class="col muuta" id="muuta">
+					<p><h1>Muuta</h1></p>
+				</div>
+			</div>
+				
+			<div class="row">
+				<div class="col osaaminen" id="osaaminen">
+					<p><h3><b>Osaaminen:</b></h3><br>
+					<ul class="list-inline" id="osaaminen">
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>Javascript</li>
+					<li>PHP</li>
+					<li>jQuery</li>
+					<li>Java</li>
+					<li>C#</li>
+					<li>SQL</li>
+					<li>AngularJS</li>
+					<li>Linux</li>
+					<li>Mac</li>
+					<li>Windows</li>
+					<li>Photoshop</li>
+					<li>InDesign</li>
+					</ul>					
+					</p>
+				</div>			
+			</div>				
+				
+			<div class="row muuta">
+				<div class="col kielitaito" id="kielitaito">	
+					<p><h3><b>Kielitaito</b></h3></p>
+					<p><b>Suomi:</b> äidinkieli<br>
+					<b>Englanti:</b> erinomainen suullinen ja kirjallinen<br>
+					<b>Ruotsi:</b> tyydyttävä suullinen ja kirjallinen<br>
+					<b>Espanja:</b> tyydyttävä suullinen ja kirjallinen<br>
+					<b>Saksa:</b> perusteet suullinen ja kirjallinen<br>
+					<b>Venäjä:</b> perusteet suullinen ja kirjallinen</p>	
+				</div>
+				<div class="col jarjestotyo" id="jarjestotyo">
+					<p><h3><b>Järjestötyö</b></h3></p>		
+					<p><b>Pohjois-Suomen katutanssiyhdistys</b><br>
+					Rahastonhoitaja 1/2012-7/2012</p>		
+				</div>
+				<div class="col jarjestotyo" id="jarjestotyo">
+					<p><h3><b>Sertifikaatit</b></h3></p>		
+					<p><b>Ajokortti B</b><br>
+					<b>Sijoituspalvelututkinto (APV1)</b></p>	
+				</div>
+			</div>		
+		</div>		
+		
+		<div class="container-fluid footer">
+  			<div class="row yhteystiedot">
+  				<div class="col yhteystiedot" id="yhteystiedot">
+  					<h3><b>Yhteyden minuun saat seuraavien kanavien kautta...</b></h3>
+  				</div>	
+  			</div>
+			<div class="row justify-content-md-center kanavat">
+			  	<div class="col-12 col-md-auto kanava"><a href="http://www.facebook.com/jenniylitalo.91" target=" _blank"><img src="images/FB-f-Logo__white_58.png" alt=""></a></div>
+			  	<div class="col-12 col-md-auto kanava"><a href="https://www.linkedin.com/in/jenni-ylitalo1991/" target=" _blank"><img src="images/In-White-75px-TM.png" alt=""></a></div>
+			  	<div class="col-12 col-md-auto kanava"><a href="https://github.com/jennijay" target=" _blank"><img src="images/GitHub-Mark-Light-64px.png" alt=""></a></div>
+			  	<div class="col-12 col-md-auto kanava"><span class="sahkoposti">@: jenni.ylitalo[at]gmail.com</span></div>
+			</div>
+  		</div>
+
+	 	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js"></script>	 
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>	
+		<script src="js/js.js"></script>
+		
+  </body>
+</html>

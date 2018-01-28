@@ -1,0 +1,117 @@
+h1 {
+	font-family: 'Playfair Display', serif;
+	letter-spacing: 2px;
+	font-size: 60px;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+	/** background-color: #B6B6B6; **/
+	margin-top: 40px;
+}
+
+.navbar {
+	background-color: #B6B6B6;
+}
+
+.jumbotron{
+    background-color: #B6B6B6;
+    height: 650px;
+}
+
+.otsikko {
+    margin-top: 200px;
+    color: #ffffff;
+}
+
+#paaotsikko {
+	font-size: 90px;
+}
+
+ul > li {
+	display: inline;
+	padding: 10px;
+}
+
+.navbar-brand, li > a {
+	color: #ffffff;
+	padding: 10px;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+}
+
+.navbar-brand:hover, li > a:hover {
+	color: #000000;
+	text-decoration: none;
+	background-color: #ffffff;
+}
+
+
+.otsikko.hidden {
+	display: none;
+}
+
+.mina.hidden, .koulutus.hidden, .tyokokemus.hidden, .yhteystiedot.hidden, .muuta.hidden {
+	display: none;
+}
+
+#koulutus, #tyokokemus, #minusta, #muuta {
+	padding-top: 50px;
+}
+
+#minusta {
+	vertical-align: center;
+}
+
+#koulutus {
+	padding-right: 30px;
+}
+
+#tyokokemus {
+	padding-left: 30px;
+}
+
+.footer {
+	background-color: #B6B6B6;
+}
+
+.col.yhteystiedot {
+	content: justify;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.kanava {
+	padding: 50px;
+	text-align: center;
+}
+.row.muuta {
+	padding-bottom: 50px;
+}
+
+.sahkoposti {
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#tiedot {
+	color: #ffffff;
+}
+
+#yhteystiedot {
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+#osaaminen {
+	padding-bottom: 10px;
+}
+
+.row {
+	padding:20px;
+}
+
+
